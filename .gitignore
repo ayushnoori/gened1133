@@ -1,0 +1,22 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*/.DS_Store
+derby.log
+
+# Ignore secrets
+secrets.env
+
+# Ignore Python cache
+__pycache__
+.ipynb_checkpoints
+
+# Ignore files in Data subdirectories
+data/*
+!data/README.md
+
+# Ignore files in Results subdirectories
+results/*
+!results/README.md
