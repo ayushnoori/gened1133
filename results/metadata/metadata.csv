@@ -1,0 +1,4 @@
+Document,Title,Characters,Sentences,Tokens,Unique Tokens,Named Entities
+uncle_toms_cabin,Uncle Tom's Cabin,1000000,10925,246762,246762,7895
+aunt_phillis_cabin,Aunt Phillis's Cabin,570976,5571,134831,134831,5332
+twelve_years_slave,Twelve Years a Slave,473604,4150,106512,106512,4413

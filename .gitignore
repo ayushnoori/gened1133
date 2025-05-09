@@ -14,9 +14,10 @@ __pycache__
 .ipynb_checkpoints
 
 # Ignore files in Data subdirectories
-data/*
-!data/README.md
+# data/*
+data/processed/*
+# !data/README.md
 
 # Ignore files in Results subdirectories
-results/*
-!results/README.md
+# results/*
+# !results/README.md
